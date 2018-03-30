@@ -2,11 +2,10 @@
 
 ## Outside-In ATDD
 
-Learn and practice the double loop of Acceptance TDD. 
-Get the business scenarios flowing into the Acceptance Test suite using a BDD approach.
-Define acceptance criterias and use it for the outer test loop proving business correctness.
-
-Test software modules from the outside, so defining the public interface first.
+- Learn and practice the double loop of Acceptance TDD. 
+- Get the business scenarios flowing into the Acceptance Test suite using a BDD approach.
+- Define acceptance criterias and use it for the outer test loop proving business correctness.
+- Test software modules from the outside, so defining the public interface first.
 
 ## Problem description
 
