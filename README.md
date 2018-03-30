@@ -10,6 +10,8 @@ Define acceptance criterias and use it for the outer test loop proving business 
 
 Test software modules from the outside, so defining the public interface first.
 
+Use a mockist approach (London school of TDD) 
+
 ## Problem description
 
 Create a simple bank application with the following features:
